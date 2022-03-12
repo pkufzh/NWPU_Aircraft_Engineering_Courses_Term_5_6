@@ -1,0 +1,37 @@
+【个人信息】
+
+    学号：2017300281
+    姓名：冯铮浩
+    班级：01011704
+    学院：航空学院
+    专业：飞行器设计与工程
+    电话：13815233646
+
+【文件信息】
+
+    压缩包内共有3个文件夹，分别如下：
+
+1. "设计材料与参考资料"文件夹
+
+    存放空中客车A350XWB-1000客机的《用户与机场保养手册》、原始三视图、
+    实拍效果图、设计参数官网截图、设计方案所用翼型数据等文件；
+
+2. "Aircraft_Model_A350XWB-1000"文件夹
+
+    存放【Aircraft_Airbus_A350XWB_1000.CATProduct】客机建模产品.CATProduct文件；
+
+    产品文件链接【Aircraft_Body.CATPart】机身建模.CATPart零件；
+	        【Aircraft_Wing.CATPart】主体机翼建模.CATPart零件；
+	        【Aircraft_Vertical_Wing.CATPart】机身垂直尾翼建模.CATPart零件；
+                        【Aircraft_Horizontal_Wing.CATPart】机身水平尾翼建模.CATPart零件；
+                        【Aircraft_Engine.CATPart】客机引擎建模.CATPart零件；
+                        【Aircraft_Rectification.CATPart】翼身结合处整流罩建模.CATPart零件；
+    上述文件均在 CATIA V5R19版本下创建；
+
+    子文件夹"STP_Format_Version"内存放模型组合通用格式.stp文件；
+
+    子文件夹"A350XWB-1000客机建模效果图"内存放三维建模效果图。
+
+3. "2017300281-冯铮浩-飞机辅助设计软件应用报告"文件夹
+
+    存放完整的Word版本与PDF版本飞机辅助设计软件应用报告。
